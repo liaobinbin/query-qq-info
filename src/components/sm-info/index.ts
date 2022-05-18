@@ -1,2 +1,1 @@
-export { SmInfo } from "./sm-info";
-export type { SmInfoProps } from "./sm-info";
+export * from "./sm-info";
