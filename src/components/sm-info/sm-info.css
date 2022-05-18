@@ -1,0 +1,22 @@
+.sm-info-card {
+  display: inline-flex;
+  padding: 4px;
+  border: 1px solid #000;
+}
+.sm-info-card__round {
+  border-radius: 8px;
+}
+.sm-info-detail {
+  display: flex;
+  margin-left: 8px;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+}
+.sm-info-detail > h4 {
+  margin: 0;
+}
+.sm-info-detail > span {
+  font-size: 14px;
+  color: #888;
+}

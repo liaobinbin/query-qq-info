@@ -1,0 +1,14 @@
+.sm-avatar {
+  overflow: hidden;
+  width: 40px;
+  height: 40px;
+}
+
+.sm-avatar > img {
+  width: 40px;
+  height: 40px;
+}
+
+.sm-avatar__round {
+  border-radius: 50%;
+}

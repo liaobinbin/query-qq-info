@@ -1,0 +1,18 @@
+.sm-input {
+}
+
+.sm-input > input {
+  border: 0;
+  border-bottom: 1px solid #000;
+  outline: none;
+}
+
+.sm-input-prefix {
+  margin-right: 4px;
+}
+
+.sm-input-error {
+  font-size: 10px;
+  color: red;
+  transition: 1s ease-in;
+}
